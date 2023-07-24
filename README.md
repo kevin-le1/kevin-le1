@@ -5,10 +5,10 @@
 
 <samp>I am a current sophomore at Princeton University with a passion for various interests. Programming, breakdancing, watching shows, and traveling are my greatest sources of joy. Among the fields of study, I find enjoyment in web development and data science, constantly seeking opportunities to expand my knowledge and skills. I am always eager to explore new avenues of learning and discover exciting challenges along the way.</samp>
 
-- 🌱 I’m currently learning web development/data science!
-- 💬 Ask me about anything!
-- 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: I love penguins! 🐧
+- <samp>🌱 I’m currently learning web development/data science!</samp>
+- <samp>💬 Ask me about anything!</samp>
+- <samp>😄 Pronouns: He/Him/His</samp>
+- <samp>⚡ Fun fact: I love penguins! 🐧</samp>
 
 <samp>Contact :</samp>
 - <samp>You can reach me at kl3059@princeton.edu<samp>
