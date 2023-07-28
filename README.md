@@ -16,6 +16,6 @@
 
 <samp>These are some of the coding languages I use! ❤️ <samp>
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin-le1&size_weight=0.5&count_weight=0.5) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin-le1&layout=pie)](https://github.com/kevin-le1/github-readme-stats)
 <img src="https://media.giphy.com/media/Hws7aKoFHS9gs/giphy.gif" width="250" height="250" />
 <img src="https://media.giphy.com/media/yALcFbrKshfoY/giphy.gif" width="250" height="250" />
