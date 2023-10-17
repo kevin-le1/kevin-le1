@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-le-00071524a/)
 
 
-<samp>I am a current sophomore at Princeton University with a passion for various interests. Programming, breakdancing, watching shows, and traveling are my greatest sources of joy. Among the fields of study, I find enjoyment in web development and data science, constantly seeking opportunities to expand my knowledge and skills. I am always eager to explore new avenues of learning and discover exciting challenges along the way.</samp>
+<samp>I am a current student at Princeton University with a passion for various interests. Programming, breakdancing, watching shows, and traveling are my greatest sources of joy. Among the fields of study, I find enjoyment in web development and data science, constantly seeking opportunities to expand my knowledge and skills. I am always eager to explore new avenues of learning and discover exciting challenges along the way.</samp>
 
 - <samp>🌱 I’m currently learning web development/data science!</samp>
 - <samp>💬 Ask me about anything!</samp>
